@@ -1,0 +1,20 @@
+{
+  "name": "piramida-booking-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "API бронирования караоке-бара «Пирамида» с уведомлениями Telegram",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node --watch server.mjs",
+    "check": "node --check server.mjs"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.22.3",
+    "helmet": "^8.0.0"
+  }
+}

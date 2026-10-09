@@ -1,0 +1,21 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Local test output
+*.log
+
+# Node.js booking backend
+backend/node_modules/
+backend/.env
+backend/.env.*
+!backend/.env.example
+backend/data/bookings.json
+backend/data/bookings.json.tmp

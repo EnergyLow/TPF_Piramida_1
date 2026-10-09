@@ -1,0 +1,31 @@
+[
+  {
+    "id": "48d4d6cc-c1c7-4ab2-9e3c-9bf5d259863f",
+    "number": 1,
+    "name": "Владислав",
+    "phone": "+79591673225",
+    "date": "2026-10-30",
+    "time": "17:00",
+    "guests": "2",
+    "comment": "dfgdfgfgdfgdf",
+    "status": "confirmed",
+    "statusLabel": "Подтверждена",
+    "createdAt": "2026-10-09T15:31:34.807Z",
+    "telegramMessageId": 20,
+    "telegramChatId": "8263520497",
+    "telegramMessages": [
+      {
+        "chatId": "8263520497",
+        "messageId": 20
+      },
+      {
+        "chatId": "1914823412",
+        "messageId": 21
+      }
+    ],
+    "notificationError": null,
+    "notifiedAt": "2026-10-09T15:31:35.965Z",
+    "notificationFailures": [],
+    "updatedAt": "2026-10-09T15:31:40.081Z"
+  }
+]

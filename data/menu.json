@@ -1,0 +1,14 @@
+{
+  "demo": true,
+  "notice": "Все позиции ниже — демонстрационные. Не являются подтверждённым меню заведения. Замените составы, изображения и цены перед публикацией.",
+  "items": [
+    {"id":"demo-c1","name":"Янтарный вечер","category":"cocktails","categoryLabel":"Коктейли","description":"Демонстрационная позиция. Состав и наличие уточнить у заведения.","price":0,"badge":"Пример","image":"https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?auto=format&fit=crop&w=800&q=80","imageAlt":"Коктейль в бокале"},
+    {"id":"demo-c2","name":"Цитрусовый акцент","category":"cocktails","categoryLabel":"Коктейли","description":"Тестовая карточка для примера отображения меню.","price":0,"badge":"","image":"https://images.unsplash.com/photo-1470337458703-46ad1756a187?auto=format&fit=crop&w=800&q=80","imageAlt":"Напиток со льдом"},
+    {"id":"demo-d1","name":"Напиток дня","category":"drinks","categoryLabel":"Бар и напитки","description":"Название, состав и цена требуют подтверждения.","price":0,"badge":"Пример","image":"https://images.unsplash.com/photo-1544145945-f90425340c7e?auto=format&fit=crop&w=800&q=80","imageAlt":"Освежающий напиток"},
+    {"id":"demo-s1","name":"Закуска к компании","category":"snacks","categoryLabel":"Закуски","description":"Демонстрационная карточка — замените реальной позицией.","price":0,"badge":"","image":"https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=800&q=80","imageAlt":"Закуска на тарелке"},
+    {"id":"demo-s2","name":"Ассорти для стола","category":"snacks","categoryLabel":"Закуски","description":"Состав, порция и наличие не подтверждены.","price":0,"badge":"Пример","image":"https://images.unsplash.com/photo-1541529086526-db283c563270?auto=format&fit=crop&w=800&q=80","imageAlt":"Еда для компании"},
+    {"id":"demo-m1","name":"Горячее блюдо","category":"mains","categoryLabel":"Основные блюда","description":"Замените описание и цену после согласования меню.","price":0,"badge":"","image":"https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80","imageAlt":"Горячее блюдо на тарелке"},
+    {"id":"demo-m2","name":"Блюдо от шефа","category":"mains","categoryLabel":"Основные блюда","description":"Демонстрационный пример без подтверждённого состава.","price":0,"badge":"Пример","image":"https://images.unsplash.com/photo-1547592180-86f3d7f2f7f6?auto=format&fit=crop&w=800&q=80","imageAlt":"Блюдо ресторанной кухни"},
+    {"id":"demo-ds1","name":"Сладкий финал","category":"desserts","categoryLabel":"Десерты","description":"Демонстрационная позиция. Уточните у заведения.","price":0,"badge":"","image":"https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=800&q=80","imageAlt":"Праздничный торт"}
+  ]
+}
